@@ -8,8 +8,8 @@ The MySQL database will update after every succesfull purchase, with the updated
 
 ## Working Demo
 please reference the following videos for a demo of the CLI: 
-Customer Version: https://drive.google.com/file/d/1H1G7RjtOkrdHadjorBkKLyAyzS1eaowU/view
-Manager Version: https://drive.google.com/file/d/1vT_yfyPT4Qf2a7kyyGzg992NxxnFR0oO/view
+* Customer Version: https://drive.google.com/file/d/1H1G7RjtOkrdHadjorBkKLyAyzS1eaowU/view
+* Manager Version: https://drive.google.com/file/d/1vT_yfyPT4Qf2a7kyyGzg992NxxnFR0oO/view
 
 ## Built With
 
